@@ -1,0 +1,27 @@
+# Plot size
+figure.figsize:     10, 8  # figure size in inches
+
+# Title
+axes.titlesize:  large
+
+# Axes Labels
+axes.labelsize : 30
+#lines.linewidth : 3
+#axes.spines.right: True
+
+# Ticks
+xtick.labelsize : 20
+ytick.labelsize : 20
+xtick.direction:     in
+xtick.major.size:    7     # major tick size in points
+xtick.minor.size:    4.5       # minor tick size in points
+xtick.top:           True
+ytick.right:         True   # draw ticks on the right side
+ytick.direction:     in
+ytick.major.size:    7     # major tick size in points
+ytick.minor.size:    4.5       # minor tick size in points
+
+# Legend
+legend.fontsize:      20
+#legend.title_fontsize: None
+#legend.markerscale:   5.0      # the relative size of legend markers vs. original
