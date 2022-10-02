@@ -18,12 +18,12 @@ The notebook details extraction of the redMaPPer cosmoDC2 catalog from <a href='
 The notebook illustrates the color index measurements of the red sequence galaxies. We use the redMaPPer cosmoDC2 catalog extracted from <a href='https://github.com/LSSTDESC/gcr-catalogs'> Generic Catalog Reader (GCR)</a>.
 
 
-**<font color='red'>Requirements</font>**<br>
+## Requirements 
 Due to the size of the catalogs and collaboration purposes, the GCR catalogs have been mirrored at National Energy Research Scientific Computing Center (NERSC) and IN2P3-CC. These notebook were prepared and run in NERSC, which also offers scientific computing resources. To access the NERSC computing resources you need to be in the LSST-DESC user group or be a member of a project that already has NERSC allocation. You are required to have an active project to be accepted in the LSST-DESC user group. Follow these [steps](https://docs.nersc.gov/accounts/) to create an account with NERSC. To join LSST-DESC user group click on [apply for DESC membership.](https://lsstdesc.org/pages/apply.html).
 
 NERSC is a shared resource and does have CLMM installed by default. To install CLMM, create a virtual envirnoment and follow the steps of [how to install CLMM in NERSC](https://github.com/LSSTDESC/CLMM/blob/main/INSTALL.md).
 
-### How to use the notebooks
+## How to use the notebooks
 
 Once you have access to NERSC and have installed CLMM, you can clone this repository using
 
