@@ -1,6 +1,7 @@
 # CosmoDC2 Weak Lensing Profiles
-
-This repository contains the synthesis paper and computing artifact of my comprehensive examination. The synthesis paper details the four main papers used for the study. The computing artifact contains four jupyter notebooks demonstrating how to calculate the weak lensing profile using the cosmoDC2 catalog and `.py` file that shows how we parallelized the calculation of the weak lensing signal. The notebooks are in the `Computing Artifact` folder. They include:
+<!-- 
+This repository contains the synthesis paper and computing artifact of my comprehensive examination. The synthesis paper details the four main papers used for the study.  -->
+The computing artifact contains four jupyter notebooks demonstrating how to calculate the weak lensing profile using the cosmoDC2 catalog and `.py` file that shows how we parallelized the calculation of the weak lensing signal. The notebooks are in the `Computing Artifact` folder. They include:
 
 1. **`WL_Measurements` - Weak Lensing measurements**
 
